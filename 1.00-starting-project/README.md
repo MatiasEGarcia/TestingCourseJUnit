@@ -40,7 +40,10 @@ This is the second section(first is only introduction to the course) of the udem
 	    - @EnabledForJreRange
 	    - @EnabledIfSystemProperty
 	    - @EnabledIfEnviromentVariable
-
+	- Parameterized test
+		- @ParameterizedTest
+		- @CsvSource
+		
     
     
 ## Coverage 
@@ -49,3 +52,5 @@ This is the second section(first is only introduction to the course) of the udem
 	- Maven Surefire Plugin
 	- Maven Surefire Report Plugin
 	- Jacoco
+
+# FizzBuzz
