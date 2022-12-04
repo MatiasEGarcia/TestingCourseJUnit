@@ -1,9 +1,4 @@
-#  JUnit 
-
-This is the second section(first is only introduction to the course) of the udemy course 
-
-
-# What is learned in this section?
+ # What is learned in this section?
 ## JUnit5
     - Assertions
         - assertEquals
