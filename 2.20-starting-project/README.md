@@ -12,3 +12,5 @@
 		- doThrow
 		- thenThrow
 		- Multiple calls to the same method
+Access to non-public fields or methods
+	- RefrectionTestUtils (class from spring)
