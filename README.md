@@ -5,7 +5,9 @@ This repository is to save what I learned in the udemy course I took -> [Link al
 Inside each project there is a readme with info about what I learned
 
 ### Order
-  1. 1.00-Starting Proyect
-  2. 2.00-Starting Proyect
-  3. 2.20-Starting Proyect
+  1. 1.00-Starting Proyect : JUnit basics and FizzBuzz example
+  2. 2.00-Starting Proyect : Spring support for Testing
+  3. 2.20-Starting Proyect : Unit Testing with Mockito
+  3. 3.00-Starting Proyect : Testing in Spring MVC
+  4. 4.00-Starting Proyect : Testing in Rest Api
 

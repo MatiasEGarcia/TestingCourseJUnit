@@ -101,13 +101,13 @@ class DemoUtilsTest {
 	@Test
 	void testLinesMatch() {
 		List<String> theList = List.of("luv","2","code");
-		//We test if both list of strings have the same values
+		//We test if both list of "strings" have the same values, has to be String
 		assertLinesMatch(theList,demoUtils.getAcademyInList(),"Lines should match");
 	}
 	
 	@Test
 	void testThrowsAndDoesNotThrow() {   
-		assertThrows(Exception.class,()-> {demoUtils.throwException(-1);}, "Should throw exception"); //we expect and Exception type
+		assertThrows(Exception.class,()-> {demoUtils.throwException(-1);}, "Should throw exception"); //we expect an Exception type
 		assertDoesNotThrow(()-> {demoUtils.throwException(5);}, "Should not throw exception");
 	}
 	
